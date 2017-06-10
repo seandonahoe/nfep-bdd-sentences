@@ -1,0 +1,21 @@
+{
+    "name": "nfep-bdd-sentences",
+    "displayName": "nfep-bdd-sentences",
+    "description": "Let's test",
+    "version": "0.0.1",
+    "publisher": "nfep-automation-team",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "feature",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
