@@ -2,7 +2,7 @@
     "name": "nfep-bdd-sentences",
     "displayName": "NFEP BDD Sentences",
     "description": "Let's test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "nfep-automation-team",
     "repository": {
         "type": "git",
@@ -12,7 +12,7 @@
         "url": "https://github.com/figuedmundo/nfep-bdd-sentences/issues"
     },
     "homepage": "https://github.com/figuedmundo/nfep-bdd-sentences/blob/master/README.md",
-    "icon": "images/team.png",
+    "icon": "images/logo.png",
     "galleryBanner": {
         "color": "#96DFFF",
         "theme": "light"
