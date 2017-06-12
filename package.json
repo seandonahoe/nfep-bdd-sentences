@@ -2,7 +2,7 @@
     "name": "nfep-bdd-sentences",
     "displayName": "NFEP BDD Sentences",
     "description": "Let's test",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "nfep-automation-team",
     "repository": {
         "type": "git",
