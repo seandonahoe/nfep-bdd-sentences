@@ -1,3 +1,5 @@
 # NFEP BDD Sentences
 
-Please let's test! 
+This package contains sentence completition help for NFEP BDD Framework.
+
+Enjoy it!

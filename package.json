@@ -1,9 +1,18 @@
 {
     "name": "nfep-bdd-sentences",
-    "displayName": "nfep-bdd-sentences",
+    "displayName": "NFEP BDD Sentences",
     "description": "Let's test",
     "version": "1.0.0",
     "publisher": "nfep-automation-team",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/figuedmundo/nfep-bdd-sentences.git"
+    },
+    "bugs": {
+        "url": "https://github.com/figuedmundo/nfep-bdd-sentences/issues"
+    },
+    "homepage": "https://github.com/figuedmundo/nfep-bdd-sentences/blob/master/README.md",
+    "icon": "images/team.png",
     "engines": {
         "vscode": "^1.12.0"
     },
