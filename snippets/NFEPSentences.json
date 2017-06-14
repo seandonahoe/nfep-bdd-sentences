@@ -147,6 +147,5 @@
 "S144": {"prefix": "go to Inventory > Warehouses > List Warehouses","body": "go to Inventory > Warehouses > List Warehouses","description": "go to Inventory > Warehouses > List Warehouses"},
 "S145": {"prefix": "in the 'List - Warehouse' page, click on [Find Warehouse] button","body": "in the 'List - Warehouse' page, click on [Find Warehouse] button","description": "in the 'List - Warehouse' page, click on [Find Warehouse] button"},
 "S146": {"prefix": "in the 'Find - Warehouse' page, set required values","body": "in the 'Find - Warehouse' page, set required values","description": "in the 'Find - Warehouse' page, set required values"},
-"S147": {"prefix": "in the 'Find - Warehouse' page, click on [Go] button","body": "in the 'Find - Warehouse' page, click on [Go] button","description": "in the 'Find - Warehouse' page, click on [Go] button"},
-"S148": {"prefix": "I validate that the Organization name is displayed in Profile Warehouse page","body": "I validate that the Organization name is displayed in Profile Warehouse page","description": "I validate that the Organization name is displayed in Profile Warehouse page"}
+"S147": {"prefix": "in the 'Find - Warehouse' page, click on [Go] button","body": "in the 'Find - Warehouse' page, click on [Go] button","description": "in the 'Find - Warehouse' page, click on [Go] button"}
 }
